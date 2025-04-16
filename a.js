@@ -1,1 +1,3 @@
-afsdfsdf
+async function name(params) {
+    
+}
